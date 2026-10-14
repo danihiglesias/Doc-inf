@@ -1,0 +1,24 @@
+format: jb-book
+root: es/intro
+parts:
+  - caption: El curso 2026-27
+    chapters:
+    - file: es/01_curso/calendario
+    - file: es/01_curso/studium_rapi
+  - caption: Requisitos del programa
+    chapters:
+    - file: es/02_requisitos/actividades_formativas
+    - file: es/02_requisitos/expediente_y_seguimiento
+    - file: es/02_requisitos/plazos_de_permanencia
+  - caption: La tesis
+    chapters:
+    - file: es/03_tesis/deposito
+    - file: es/03_tesis/tipos_de_tesis
+    - file: es/03_tesis/casos_particulares
+  - caption: Normativa
+    chapters:
+    - file: es/04_normativa/normativa_y_contactos
+  - caption: Información
+    chapters:
+    - file: es/90_acerca_de
+    - file: es/91_licencias

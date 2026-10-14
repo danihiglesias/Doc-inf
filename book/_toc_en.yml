@@ -1,0 +1,24 @@
+format: jb-book
+root: en/intro
+parts:
+  - caption: The 2026-27 academic year
+    chapters:
+    - file: en/01_year/calendar
+    - file: en/01_year/studium_rapi
+  - caption: Programme requirements
+    chapters:
+    - file: en/02_requirements/training_activities
+    - file: en/02_requirements/record_and_monitoring
+    - file: en/02_requirements/time_limits
+  - caption: The thesis
+    chapters:
+    - file: en/03_thesis/submission
+    - file: en/03_thesis/thesis_types
+    - file: en/03_thesis/special_cases
+  - caption: Regulations
+    chapters:
+    - file: en/04_regulations/regulations_and_contacts
+  - caption: Information
+    chapters:
+    - file: en/90_about
+    - file: en/91_licenses

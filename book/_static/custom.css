@@ -442,6 +442,14 @@ html {
     outline: none !important;
 }
 
+/* The ESALAB + USAL logo is dark on a transparent background: give it a
+   light card in dark mode so it stays readable. */
+html[data-theme="dark"] .logo__image {
+    background-color: #ffffff;
+    border-radius: 6px;
+    padding: 4px;
+}
+
 /* ========================================
    OpenDyslexic Accessibility Mode
    ======================================== */
